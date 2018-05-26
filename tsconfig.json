@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "lib": [
+      "es2016.array.include",
+      "es6",
+      "dom",
+      "esnext"
+    ]
+  }
+}
